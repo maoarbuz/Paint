@@ -2,6 +2,9 @@
 
 This is a simple Paint application created with Python using the `tkinter` library. The application allows users to draw on a canvas, choose brush sizes and colors, and clear the canvas.
 
+![bandicam 2024-07-04 21-39-26-869](https://github.com/maoarbuz/Paint/assets/137228787/cf71f391-b08e-486d-8235-18e15eacda39)
+
+
 ## Features
 
 - Draw on a canvas with adjustable brush size.
