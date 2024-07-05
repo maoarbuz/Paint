@@ -22,8 +22,8 @@ This is a simple Paint application created with Python using the `tkinter` libra
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/paint-app.git
-    cd paint-app
+    git clone https://github.com/maoarbuz/Paint.git
+    cd Paint
     ```
 
 2. **Install the required packages:**
@@ -86,4 +86,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## Author
 
-- Your Name - [Your GitHub Profile](https://github.com/yourusername)
+- Your Name - [Your GitHub Profile](https://github.com/maoarbuz)
