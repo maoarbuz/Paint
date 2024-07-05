@@ -86,4 +86,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## Author
 
-- Your Name - [Your GitHub Profile](https://github.com/maoarbuz)
+- [MaoArbuz](https://github.com/maoarbuz)
